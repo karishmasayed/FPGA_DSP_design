@@ -78,11 +78,6 @@ for (int i = 0; i < 256; i++) {
 
 This README provides an overview of the butterfly filter implementation, covering input data, the twiddle matrix, and macros. For detailed implementation specifics, refer to the `BUTTERFLY_RTL_IMP.xlsx` file.
 
----
-
-Here's a README with detailed explanations of the inputs, outputs, and internal module instantiations of the FFT butterfly module:
-
----
 
 # FFT Butterfly Module
 
